@@ -1,19 +1,19 @@
 import cv2
 
-# Kamerayi ac (0 genelde laptopun kendi kamerasidir)
+# Open the camera (0 is usually the laptop's built-in webcam)
 cap = cv2.VideoCapture(0)
 
-print("Kamerayi acmak icin bir tusa basiliyor... Kapatmak icin 'q' tusuna bas!")
+print("Pressing a key to open the camera... Press 'q' to close!")
 
 while True:
     ret, frame = cap.read()
     if not ret:
         break
 
-    # Goruntuyu ekranda goster
-    cv2.imshow('Victus Gozlerini Acti!', frame)
+    # Display the image on the screen
+    cv2.imshow('DE_yavuzsk08236_TR', frame)
 
-    # 'q' tusuna basinca cik
+    # Exit when 'q' key is pressed
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
