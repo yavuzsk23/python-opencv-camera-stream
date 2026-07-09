@@ -1,4 +1,4 @@
-# OpenCV Camera Stream (DE_yavuzsk08236_TR)
+# OpenCV Camera Stream
 
 Real-time webcam stream application using OpenCV.
 
@@ -23,3 +23,25 @@ A simple and clean Python application that captures and displays a real-time vid
 python camera_stream.py
 
 press q to exit.
+
+--
+
+🇩🇪 Deutsch
+Beschreibung
+Eine einfache und saubere Python-Anwendung, die OpenCV verwendet, um einen Echtzeit-Videostream von der Webcam zu erfassen und anzuzeigen. Die Anwendung hat einen benutzerdefinierten Fenstertitel und eine ordnungsgemäße Ressourcenverwaltung.
+Funktionen
+
+Echtzeit-Video-Streaming von der Webcam
+Benutzerdefinierter Fenstertitel (DE_yavuzsk08236_TR)
+Beenden mit der Taste q
+Automatische Ressourcenfreigabe
+
+Voraussetzungen
+
+Python 3.8+
+OpenCV (pip install opencv-python)
+
+Ausführen
+python camera_stream.py
+
+mit q beenden.
