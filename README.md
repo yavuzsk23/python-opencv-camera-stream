@@ -26,44 +26,42 @@ press q to exit.
 
 ---
 
-##🇩🇪 Deutsch
-Beschreibung
+## 🇩🇪 Deutsch
+**Beschreibung**
 Eine einfache und saubere Python-Anwendung, die OpenCV verwendet, um einen Echtzeit-Videostream von der Webcam zu erfassen und anzuzeigen. Die Anwendung hat einen benutzerdefinierten Fenstertitel und eine ordnungsgemäße Ressourcenverwaltung.
-Funktionen
 
+**Funktionen**
 Echtzeit-Video-Streaming von der Webcam
 Benutzerdefinierter Fenstertitel (DE_yavuzsk08236_TR)
 Beenden mit der Taste q
 Automatische Ressourcenfreigabe
 
-Voraussetzungen
-
+**Voraussetzungen**
 Python 3.8+
 OpenCV (pip install opencv-python)
 
-Ausführen
+**Ausführen**
 python camera_stream.py
 
 mit q beenden.
 
 ---
 
-🇹🇷 Türkçe
-Açıklama
+## 🇹🇷 Türkçe
+**Açıklama**
 OpenCV kütüphanesini kullanarak dahili web kamerasından gerçek zamanlı video akışı yakalayıp gösteren basit ve temiz bir Python uygulaması. Özel pencere başlığı ve düzgün kaynak yönetimi içerir.
-Özellikler
 
+**Özellikler**
 Web kamerasından gerçek zamanlı video akışı
 Özel pencere başlığı (DE_yavuzsk08236_TR)
 'q' tuşu ile güvenli çıkış
 Otomatik kaynak temizleme
 
-Gereksinimler
-
+**Gereksinimler**
 Python 3.8+
 OpenCV (pip install opencv-python)
 
-Çalıştırma
+**Çalıştırma**
 python camera_stream.py
 
 çıkmak için q tuşuna basın.
