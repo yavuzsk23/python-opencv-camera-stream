@@ -24,6 +24,8 @@ python camera_stream.py
 
 press q to exit.
 
+- note: This project was developed with AI assistance as part of my learning process
+  
 ---
 
 ## 🇩🇪 Deutsch
@@ -45,6 +47,8 @@ python camera_stream.py
 
 mit q beenden.
 
+- hinweis: dieses projekt wurde im Rahmen meines Lernprozesses mit KI-Unterstützung entwickelt
+  
 ---
 
 ## 🇹🇷 Türkçe
@@ -66,3 +70,4 @@ python camera_stream.py
 
 çıkmak için q tuşuna basın.
 
+- not: Bu proje, öğrenme sürecimin bir parçası olarak yapay zeka desteğiyle geliştirilmiştir
